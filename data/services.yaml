@@ -88,6 +88,17 @@ coincafe:
       <p>Buy Bitcoins with cash, check, wire transfer, Western Union, or credit/debit card. Or stop by our NYC location to use our ATM!</p>
       <p>Find us on Twitter: <a href="https://twitter.com/coincafeinc">@CoinCafeInc</a></p>
   coins: [BTC]
+  
+  BITCOIN ATM - Las Vegas:
+  icon: http://bankinnovation.net/wp-content/uploads/2013/11/bitcoin.png
+  label: Bitcoin ATM
+  countries: [us]
+  location: [us]
+  content: |
+      <p>Bitcoin ATM open 24/7 and is located at Jackson's Bar and Grill. Buy and sell Bitcoin using only phone number verification.</p>
+      <p>Our Bitcoin ATM provides the easiest, convenient, and most reliable way to buy or sell bitcoin. All with cash!</p>
+      <p>Jackson's Bar and Grill is located at : 6020 W Flamingo Rd #1, Las Vegas, NV 89103</p>
+  coins: [BTC]
 
 quickbitcoin:
   label: QuickBitcoin
